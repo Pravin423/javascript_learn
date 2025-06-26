@@ -14,14 +14,14 @@ Useful string methods/////
 string concat/////
 Template Strings///////
 Null, undefined, BigInt, typeof////
-Booleans and Comparison Operator
-Truthy and Falsy Values
-If else statement
-Ternary Operator
-&& || operator
-Nested if else
-If elseif else
-Switch statement
+Booleans and Comparison Operator/////
+Truthy and Falsy Values/////
+If else statement/////
+Ternary Operator/////
+&& || operator/////
+Nested if else////
+If elseif else////
+Switch statement/////
 While loop 
 While loop examples
 For loop
