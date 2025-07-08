@@ -26,5 +26,10 @@
 
 //how to add key value pair to a object
 const person={name:"testname",age:20};
-person.gender="male";
-console.log(person)//{name: 'testname', age: 20, gender: 'male'}
+// person.gender="male";//dot method
+// console.log(person)//{name: 'testname', age: 20, gender: 'male'}
+//bracket method to access elements in object
+
+console.log(person["name"])//testname(in javascript key is in string by default)
+
+
